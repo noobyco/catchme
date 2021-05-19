@@ -1,4 +1,4 @@
-# **catchMe-Game**
+# **Catch Me**
 
 ![licence](https://img.shields.io/badge/Licence-MIT-blue) ![Mood](https://img.shields.io/badge/Mood-Game-green)
 
