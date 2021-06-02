@@ -50,6 +50,9 @@ A game which you can really touch by your hand, meet "Catch Me". Currently this 
 ><br>
 >
 
+## Schematics
+
+![](https://i.imgur.com/DeIQIap.jpg)
 ## Gallary
 
 <br>
